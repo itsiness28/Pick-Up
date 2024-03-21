@@ -5,4 +5,5 @@ _____ - _____,______. Escena: ____. Tarea: ____________________.
 
 UPDATES
 Inés - 19/03, 11:34. Escena: NO. Tarea: Organización de Carpetas. 
-Rodrigo - Creación del script del cursor para su posterior aplicación. HECHO
+Rodrigo - Creación del script del cursor para su posterior aplicación. HECHO    (Nota: para la próxima sigue el formato porfi!! -Inés)
+Nombre - Fecha y Hora. Escena:_____(Nombre escena/"NO"/"Borradores"). Tarea:______
